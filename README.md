@@ -1,5 +1,5 @@
 # PyChain Ledger Application
-
+<img src="https://github.com/Nievz/Neural_Network_Data_Analysis/blob/main/Images/Banner.jpg" alt="Logo" width="1000" height="450">
 Welcome to the PyChain Ledger Application! In this project, we have built a blockchain-based ledger system with a user-friendly web interface, which allows partner banks to conduct financial transactions and verify the integrity of the data in the ledger.
 
 ## Table of Contents
@@ -82,4 +82,15 @@ streamlit run pychain.py
 ## Conclusion
 
 We are thrilled to announce the successful completion of the PyChain Ledger Application. Our decentralized ledger system empowers partner banks to conduct financial transactions securely. If you have any questions or need further information, please feel free to reach out. 
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* [https://bootcampspot.instructure.com/courses/3828/assignments/57444?module_item_id=1010084]()
+  
 
