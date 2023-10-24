@@ -1,5 +1,5 @@
 # PyChain Ledger Application
-<img src="https://github.com/Nievz/Neural_Network_Data_Analysis/blob/main/Images/Banner.jpg" alt="Logo" width="1000" height="450">
+<img src="https://github.com/Nievz/PyChain/blob/main/Images/banner.png" alt="Logo" width="1000" height="450">
 Welcome to the PyChain Ledger Application! In this project, we have built a blockchain-based ledger system with a user-friendly web interface, which allows partner banks to conduct financial transactions and verify the integrity of the data in the ledger.
 
 ## Table of Contents
@@ -72,12 +72,10 @@ streamlit run pychain.py
 ## Screenshots
 
 ### Blockchain with Multiple Blocks
-
-### Blockchain with Multiple Blocks
-
-### Blockchain Validation
-
-### Blockchain Validation
+<p align="center" style="display: flex;" >
+  <img src="https://github.com/Nievz/PyChain/blob/main/Images/PyChain%20App.png" alt="Logo" width="1000" height="1000">
+  <img src="https://github.com/Nievz/PyChain/blob/main/Images/Winning Hash.png" alt="Logo" width="800" height="300">
+</p> 
 
 ## Conclusion
 
